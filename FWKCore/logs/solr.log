@@ -1,0 +1,51 @@
+WARN  - 2019-01-22 16:21:28.776; com.everis.fwkcore.configurations.HBase; Acessando...
+ERROR - 2019-01-22 16:21:28.958; com.everis.fwkcore.configurations.HBase; Acessando...
+INFO  - 2019-01-22 16:21:29.060; org.eclipse.jetty.util.log.Log; Logging initialized @3771ms to org.eclipse.jetty.util.log.Slf4jLog
+WARN  - 2019-01-22 16:21:29.301; org.eclipse.jetty.server.ServerConnector; Ignoring deprecated socket close linger time
+INFO  - 2019-01-22 16:21:29.311; spark.embeddedserver.jetty.EmbeddedJettyServer; == Spark has ignited ...
+INFO  - 2019-01-22 16:21:29.311; spark.embeddedserver.jetty.EmbeddedJettyServer; >> Listening on 0.0.0.0:4567
+INFO  - 2019-01-22 16:21:29.345; org.eclipse.jetty.server.Server; jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_161-b12
+INFO  - 2019-01-22 16:21:29.439; org.eclipse.jetty.server.session.DefaultSessionIdManager; DefaultSessionIdManager workerName=node0
+INFO  - 2019-01-22 16:21:29.439; org.eclipse.jetty.server.session.DefaultSessionIdManager; No SessionScavenger set, using defaults
+INFO  - 2019-01-22 16:21:29.444; org.eclipse.jetty.server.session.HouseKeeper; node0 Scavenging every 600000ms
+INFO  - 2019-01-22 16:21:30.125; org.eclipse.jetty.server.AbstractConnector; Started ServerConnector@14954aa2{HTTP/1.1,[http/1.1]}{0.0.0.0:4567}
+INFO  - 2019-01-22 16:21:30.125; org.eclipse.jetty.server.Server; Started @4840ms
+WARN  - 2019-01-22 16:27:40.496; com.everis.fwkcore.configurations.HBase; Acessando...
+ERROR - 2019-01-22 16:27:40.637; com.everis.fwkcore.configurations.HBase; Acessando...
+INFO  - 2019-01-22 16:27:40.690; org.eclipse.jetty.util.log.Log; Logging initialized @3319ms to org.eclipse.jetty.util.log.Slf4jLog
+WARN  - 2019-01-22 16:27:40.857; org.eclipse.jetty.server.ServerConnector; Ignoring deprecated socket close linger time
+INFO  - 2019-01-22 16:27:40.876; spark.embeddedserver.jetty.EmbeddedJettyServer; == Spark has ignited ...
+INFO  - 2019-01-22 16:27:40.877; spark.embeddedserver.jetty.EmbeddedJettyServer; >> Listening on 0.0.0.0:4567
+INFO  - 2019-01-22 16:27:40.885; org.eclipse.jetty.server.Server; jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_161-b12
+INFO  - 2019-01-22 16:27:40.962; org.eclipse.jetty.server.session.DefaultSessionIdManager; DefaultSessionIdManager workerName=node0
+INFO  - 2019-01-22 16:27:40.962; org.eclipse.jetty.server.session.DefaultSessionIdManager; No SessionScavenger set, using defaults
+INFO  - 2019-01-22 16:27:40.967; org.eclipse.jetty.server.session.HouseKeeper; node0 Scavenging every 660000ms
+INFO  - 2019-01-22 16:27:41.235; org.eclipse.jetty.server.AbstractConnector; Started ServerConnector@42027f3a{HTTP/1.1,[http/1.1]}{0.0.0.0:4567}
+INFO  - 2019-01-22 16:27:41.236; org.eclipse.jetty.server.Server; Started @3868ms
+WARN  - 2019-01-22 16:28:50.807; com.everis.fwkcore.configurations.HBase; Acessando...
+ERROR - 2019-01-22 16:28:50.939; com.everis.fwkcore.configurations.HBase; Acessando...
+INFO  - 2019-01-22 16:28:51.003; org.eclipse.jetty.util.log.Log; Logging initialized @3197ms to org.eclipse.jetty.util.log.Slf4jLog
+WARN  - 2019-01-22 16:28:51.154; org.eclipse.jetty.server.ServerConnector; Ignoring deprecated socket close linger time
+INFO  - 2019-01-22 16:28:51.162; spark.embeddedserver.jetty.EmbeddedJettyServer; == Spark has ignited ...
+INFO  - 2019-01-22 16:28:51.162; spark.embeddedserver.jetty.EmbeddedJettyServer; >> Listening on 0.0.0.0:4567
+INFO  - 2019-01-22 16:28:51.170; org.eclipse.jetty.server.Server; jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_161-b12
+INFO  - 2019-01-22 16:28:51.249; org.eclipse.jetty.server.session.DefaultSessionIdManager; DefaultSessionIdManager workerName=node0
+INFO  - 2019-01-22 16:28:51.249; org.eclipse.jetty.server.session.DefaultSessionIdManager; No SessionScavenger set, using defaults
+INFO  - 2019-01-22 16:28:51.254; org.eclipse.jetty.server.session.HouseKeeper; node0 Scavenging every 600000ms
+INFO  - 2019-01-22 16:28:51.604; org.eclipse.jetty.server.AbstractConnector; Started ServerConnector@67fc8c1{HTTP/1.1,[http/1.1]}{0.0.0.0:4567}
+INFO  - 2019-01-22 16:28:51.605; org.eclipse.jetty.server.Server; Started @3803ms
+INFO  - 2019-01-22 16:29:10.315; spark.http.matching.MatcherFilter; The requested route [/] has not been mapped in Spark for Accept: [text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8]
+WARN  - 2019-01-22 16:46:53.545; com.everis.fwkcore.configurations.HBase; Acessando...
+ERROR - 2019-01-22 16:46:54.486; com.everis.fwkcore.configurations.HBase; Acessando...
+WARN  - 2019-01-22 16:48:20.017; com.everis.fwkcore.configurations.HBase; Acessando...
+ERROR - 2019-01-22 16:48:20.138; com.everis.fwkcore.configurations.HBase; Acessando...
+INFO  - 2019-01-22 16:48:20.189; org.eclipse.jetty.util.log.Log; Logging initialized @2328ms to org.eclipse.jetty.util.log.Slf4jLog
+WARN  - 2019-01-22 16:48:20.310; org.eclipse.jetty.server.ServerConnector; Ignoring deprecated socket close linger time
+INFO  - 2019-01-22 16:48:20.316; spark.embeddedserver.jetty.EmbeddedJettyServer; == Spark has ignited ...
+INFO  - 2019-01-22 16:48:20.318; spark.embeddedserver.jetty.EmbeddedJettyServer; >> Listening on 0.0.0.0:4567
+INFO  - 2019-01-22 16:48:20.329; org.eclipse.jetty.server.Server; jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_161-b12
+INFO  - 2019-01-22 16:48:20.392; org.eclipse.jetty.server.session.DefaultSessionIdManager; DefaultSessionIdManager workerName=node0
+INFO  - 2019-01-22 16:48:20.392; org.eclipse.jetty.server.session.DefaultSessionIdManager; No SessionScavenger set, using defaults
+INFO  - 2019-01-22 16:48:20.397; org.eclipse.jetty.server.session.HouseKeeper; node0 Scavenging every 600000ms
+INFO  - 2019-01-22 16:48:20.601; org.eclipse.jetty.server.AbstractConnector; Started ServerConnector@bbf90f3{HTTP/1.1,[http/1.1]}{0.0.0.0:4567}
+INFO  - 2019-01-22 16:48:20.601; org.eclipse.jetty.server.Server; Started @2745ms
