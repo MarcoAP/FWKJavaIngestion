@@ -1,0 +1,5 @@
+/.metadata/
+/.recommenders/
+.idea
+*.iml
+*.jar
